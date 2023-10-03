@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "whatthreewords"]
+	path = whatthreewords
+	url = https://github.com/davidasmith/whatthreewords
 [submodule "wordler"]
 	path = wordler
 	url = https://github.com/davidasmith/wordler
